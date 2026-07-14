@@ -1,0 +1,11 @@
+# The notebook runs on the JAX backend (KERAS_BACKEND=jax).
+# For GPU, install jax[cuda12] instead of plain jax.
+jax
+keras>=3
+numpy
+scipy
+scikit-learn
+matplotlib
+jupyter
+jupytext
+nbstripout
